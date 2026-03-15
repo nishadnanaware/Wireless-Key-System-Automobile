@@ -67,7 +67,7 @@ Block Diagram
 
 Mobile app Interface
 
-![Block Diagram](wireless-key-system-230213_1615.png)
+![Interface](mobileapp_interface1)
 
 ---
 
