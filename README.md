@@ -25,7 +25,7 @@ Working Principle
 
 ---
 
-Hardware Setup
+HardwareSetup
 
 Power off
 
