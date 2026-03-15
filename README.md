@@ -25,6 +25,19 @@ Working Principle
 
 ---
 
+Hardware Setup
+
+Power off
+
+![Project Setup](images/Hardware_setuo_poweroff.jpeg)
+
+Power onn
+
+![Project Setup](images/Hardware_setuo_poweron.jpeg)
+
+---
+---
+
 Features
 
 * Engine ON/OFF control
