@@ -29,11 +29,11 @@ Hardware Setup
 
 Power off
 
-![Project Setup](images/Hardware_setuo_poweroff.jpeg)
+![Project Setup](images/Hardware_setup_poweroff.jpeg)
 
 Power onn
 
-![Project Setup](images/Hardware_setuo_poweron.jpeg)
+![Project Setup](images/Hardware_setup_poweron.jpeg)
 
 ---
 ---
