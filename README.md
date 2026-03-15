@@ -36,7 +36,6 @@ Power onn
 ![Project Setup](images/Hardware_setup_poweron.jpeg)
 
 ---
----
 
 Features
 
