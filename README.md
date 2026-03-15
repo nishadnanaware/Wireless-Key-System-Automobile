@@ -67,7 +67,13 @@ Block Diagram
 
 Mobile app Interface
 
+Interface 1
+
 ![Interface1](mobileapp_interface1.jpeg)
+
+Inerface 2
+
+![Interface1](mobileapp_interface2.jpeg)
 
 ---
 
